@@ -1,6 +1,5 @@
 # Bachelor thesis
-# Impostors in crowd simulations
-*This thesis explores how viewers’ sensitivity towards impostor resolution degradation is affected by crowd density and perspective. The environment was made in unity.*
+## Impostors in crowd simulations
 
 ## Impact of Crowd Density and Camera Perspective on User Sensitivity Towards Impostor Resolution Degradation in Crowd Simulators
 
